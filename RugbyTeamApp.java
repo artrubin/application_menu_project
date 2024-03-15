@@ -1,6 +1,6 @@
 /*
 RugbyTeamApp.java
-@author Artem Chaykovskyy, ID 23224746
+@author Artem Rubin
 13th Nov 23
 */
 
