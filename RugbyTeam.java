@@ -1,6 +1,6 @@
 /*
 RugbyTeam.java
-@author Artem
+@author Artem Rubin
 13th Nov 23
 */
 
